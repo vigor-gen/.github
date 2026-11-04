@@ -18,15 +18,15 @@ This organization hosts the project page and the official source code for **VIGO
 
 \* Equal contribution &nbsp;&nbsp; † Equal advising
 
-**Institutions:** [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr) · [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr)
+**Institutions:** [Electronics and Telecommunications Research Institute (ETRI)](https://www.etri.re.kr/eng/main/main.etri) · [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en)
 
 ## Repositories
 
 | Repository | Description |
 | :--- | :--- |
 | [`vigor-gen.github.io`](https://github.com/vigor-gen/vigor-gen.github.io) | Source of the [project page](https://vigor-gen.github.io): overview video, method, results, rollout gallery, and supplementary results. |
-| [`tdmpc2-vigor`](https://github.com/vigor-gen/tdmpc2_vigor) | **TD-MPC2+VIGOR**, the default instantiation on a decoder-free world model with MPC planning. |
-| [`dreamerv3-vigor`](https://github.com/vigor-gen/dreamerv3_vigor) | **DreamerV3+VIGOR**, the instantiation on a decoder-based RSSM world model with actor-critic learning. |
+| [`tdmpc2_vigor`](https://github.com/vigor-gen/tdmpc2_vigor) | **TD-MPC2+VIGOR**, the default instantiation on a decoder-free world model with MPC planning. |
+| [`dreamerv3_vigor`](https://github.com/vigor-gen/dreamerv3_vigor) | **DreamerV3+VIGOR**, the instantiation on a decoder-based RSSM world model with actor-critic learning. |
 
 ## Citation
 
