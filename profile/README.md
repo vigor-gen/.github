@@ -25,8 +25,8 @@ This organization hosts the project page and the official source code for **VIGO
 | Repository | Description |
 | :--- | :--- |
 | [`vigor-gen.github.io`](https://github.com/vigor-gen/vigor-gen.github.io) | Source of the [project page](https://vigor-gen.github.io): overview video, method, results, rollout gallery, and supplementary results. |
-| [`tdmpc2-vigor`](https://github.com/vigor-gen/tdmpc2-vigor) | **TD-MPC2+VIGOR**, the default instantiation on a decoder-free world model with MPC planning. |
-| [`dreamerv3-vigor`](https://github.com/vigor-gen/dreamerv3-vigor) | **DreamerV3+VIGOR**, the instantiation on a decoder-based RSSM world model with actor-critic learning. |
+| [`tdmpc2-vigor`](https://github.com/vigor-gen/tdmpc2_vigor) | **TD-MPC2+VIGOR**, the default instantiation on a decoder-free world model with MPC planning. |
+| [`dreamerv3-vigor`](https://github.com/vigor-gen/dreamerv3_vigor) | **DreamerV3+VIGOR**, the instantiation on a decoder-based RSSM world model with actor-critic learning. |
 
 ## Citation
 
